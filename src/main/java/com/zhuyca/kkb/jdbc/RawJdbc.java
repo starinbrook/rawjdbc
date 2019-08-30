@@ -8,7 +8,7 @@ import java.sql.*;
  * @Description :
  * @Date :          2019/8/30 11:35
  * @Author :        Y.C.ZHU
- * @Company :       北京云杉世界信息技术有限公司<br>
+ * @Company :
  * @Copyright :     Copyright (c) 2016<br>
  */
 public class RawJdbc {
